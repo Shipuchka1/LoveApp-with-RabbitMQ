@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Worker
 {
+
     class Program
     {
         public static List<Session> sessions = new List<Session>();
